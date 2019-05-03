@@ -1,10 +1,8 @@
------
-
-
-
------
-
 <!-- TITLE: Главная -->
-<!-- SUBTITLE: A quick summary of Home -->
+
+<!-- Здесь будет всякая хуйня -->
 
 # Hui
+```html
+<h1>Hello world</h1>
+```
