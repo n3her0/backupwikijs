@@ -2,7 +2,8 @@
 
 <!-- Здесь будет всякая хуйня -->
 
-# Раз[video](https://www.youtube.com/watch?v=5Y_to8N__Qc){.youtube}
+# Раз
+[video](https://www.youtube.com/watch?v=5Y_to8N__Qc){.youtube}
 
 # Два
 # Три
